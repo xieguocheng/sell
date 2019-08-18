@@ -3,6 +3,7 @@
 
 ## 采用技术
 1.开发工具IDEA，maven构建
+
 2.springboot+jpa+mysql搭建整个系统，开发restful接口
 
 3.html,css,Jquery,vue,bootstra,freemarker实现前端页面，实现前后端分离
